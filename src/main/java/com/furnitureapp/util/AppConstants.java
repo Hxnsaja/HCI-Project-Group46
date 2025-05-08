@@ -8,7 +8,7 @@ import java.awt.Color;
 public class AppConstants {
     // Application information
     public static final String APP_NAME = "Furniture Designer Pro";
-    public static final String APP_VERSION = "2.0.0";
+    public static final String APP_VERSION = "1.0.0";
     public static final String APP_AUTHOR = "Design by Group 64";
     
     // Default room dimensions
